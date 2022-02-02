@@ -56,5 +56,15 @@ public class Main {
 
         System.out.println("Mortgage: " + mortgageFormatted + "\nTotal Interest paid: " + totalInterestPaidFormatted
          + "\nTotal amount paid in " + numberOfPayments + " payments: " + totalAmountPaidFormatted);
+
+        //@todo - implement payment schedule
+        //System.out.println("\n--------");
+
+        //System.out.println("\nPayment Schedule");
+        //System.out.println("\n----------------");
+
+        //for (int i = 0; i < numberOfPayments; i++) {
+           // double currentAmount = principal - mortgage;
+        //}
     }
 }
